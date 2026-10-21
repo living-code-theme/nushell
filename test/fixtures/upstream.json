@@ -1,0 +1,28 @@
+{
+  "repository": "nushell/nushell",
+  "revision": "f196eaf8a757d005647f582ccc735b0bed7058e5",
+  "paths": [
+    "crates/nu-color-config/src/shape_color.rs"
+  ],
+  "checked": "2026-10-21",
+  "contract": "nu",
+  "required": [
+    "separator",
+    "header",
+    "int",
+    "bool",
+    "float",
+    "string",
+    "shape_variable",
+    "shape_int",
+    "shape_bool",
+    "shape_string",
+    "shape_internalcall",
+    "shape_flag",
+    "shape_operator",
+    "shape_keyword",
+    "foreground",
+    "background",
+    "cursor"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Nushell",
+  "slug": "nushell",
+  "group": "CLI & TUI",
+  "emoji": "🐚",
+  "description": "Living Code for Nushell: native modules for syntax shapes, structured values, tables, search matches and command-line hints.",
+  "homepage": "https://www.nushell.sh",
+  "quick": "Install the native theme files",
+  "aliases": [
+    "nu",
+    "nu shell"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "themes/living-code-night.nu",
+    "themes/living-code-frost.nu",
+    "themes/living-code-paper.nu",
+    "themes/living-code-signal.nu"
+  ],
+  "images": []
+}
