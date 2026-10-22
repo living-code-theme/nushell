@@ -8,7 +8,7 @@
     "capture/flake.nix": "e40636020db4e3adcef644fe230ff2710c2c5b38411b7398e1d8b30a727717f6",
     "palette/theme.json": "d735cf005e3b2807953226c0119e384f6f8a3d2b3167443371cb302a8c689cdb",
     "port.json": "f3408310141487d01c743b546687d9c1495130c8d992ef5b15a78ef15acd0d39",
-    "scripts/capture.py": "dcb8dc5d8a6ecbf2eb998eab90d678c745c9de6e9d35ded82edc0a949cb7e4e8",
+    "scripts/capture.py": "1fefb763f00567b795b92388b29e3e8c3fd58bd0eefa9c2f31e43663cad7a308",
     "themes/living-code-frost.nu": "18ec29e68673e13d2fdef79431721f8997fb1cf8cff8f8396f2789710dfca640",
     "themes/living-code-night.nu": "b3e261a59ea37f802a9008f6cb7234dfbc06bda14202e4b8c88738e9195d71c2",
     "themes/living-code-paper.nu": "b3ced058be021cf5be64e3f2c35140c4fb72afeef9daee369bb7a7b3c7892e37",
@@ -17,7 +17,7 @@
   "images": {
     "night": {
       "path": "images/night.png",
-      "sha256": "f2029ab3f86f4456247ca41e9020adfdd090fa3c082ecd245f6286f3076d64da",
+      "sha256": "2cf8ca67f60dfda5feb7193dc455f42da4adf1cf1bbff6601c7c8e3bbd4a7759",
       "application": "0.116.1",
       "paletteColors": [
         "#00a692",
@@ -34,7 +34,7 @@
     },
     "frost": {
       "path": "images/frost.png",
-      "sha256": "c8cda0c6a17d61a09207c03ada6e4ea583d90a1b85074b583efba8b615212527",
+      "sha256": "11f7621f9955d2cc16f25fff8acd77bcf548f58510396cc43a27aab96348ef4d",
       "application": "0.116.1",
       "paletteColors": [
         "#0a1016",
@@ -51,7 +51,7 @@
     },
     "paper": {
       "path": "images/paper.png",
-      "sha256": "57efc70dce227a0a042d1246ec657eca9880c28b07eefe994f39752c953a144b",
+      "sha256": "9bb318b5dde298b643e2772b7395233e9ed95d234e5d28cb134c9933b4b465cf",
       "application": "0.116.1",
       "paletteColors": [
         "#12171a",
@@ -68,7 +68,7 @@
     },
     "signal": {
       "path": "images/signal.png",
-      "sha256": "11d7f35ad0cb4421971c7449efa25c8bc50320731fcee0f15ce8527670705cb7",
+      "sha256": "a7c5343f1051ddff414d02e9ba622c1e2e856e12881c60d16d1de53956d1c395",
       "application": "0.116.1",
       "paletteColors": [
         "#00a692",
