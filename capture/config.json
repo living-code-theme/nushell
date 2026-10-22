@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "scene": "Nushell native structured-data table and syntax colors.",
+  "versionCommand": [
+    "nu",
+    "--version"
+  ],
+  "fixtures": []
+}

@@ -1,0 +1,8 @@
+{
+  "downloads": [
+    {
+      "source": "themes/living-code-{flavor}.nu",
+      "destination": "{config}/nushell/themes/living-code-{flavor}.nu"
+    }
+  ]
+}

@@ -24,5 +24,10 @@
     "themes/living-code-paper.nu",
     "themes/living-code-signal.nu"
   ],
-  "images": []
+  "images": [
+    { "flavor": "night", "path": "images/night.png", "alt": "Nushell running Living Code Night" },
+    { "flavor": "frost", "path": "images/frost.png", "alt": "Nushell running Living Code Frost" },
+    { "flavor": "paper", "path": "images/paper.png", "alt": "Nushell running Living Code Paper" },
+    { "flavor": "signal", "path": "images/signal.png", "alt": "Nushell running Living Code Signal" }
+  ]
 }
